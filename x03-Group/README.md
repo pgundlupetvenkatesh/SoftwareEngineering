@@ -10,6 +10,7 @@ Together, as a group, you will fork this repo and collaborate to summarize some 
 
 * [Rahul Shinde](https://github.com/rahulvshinde) - Interested in fixing the long list of bugs
 * [Sumeet Tulsani](https://github.com/stulsani) - Interested in resolving the long list of bugs
+* [Akshay Deo](https://github.com/deoakshay) - Interested in bug fixing
 
 ### Communication
 
