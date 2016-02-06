@@ -12,6 +12,7 @@ Together, as a group, you will fork this repo and collaborate to summarize some 
 * [Sumeet Tulsani](https://github.com/stulsani) - Interested in resolving the long list of bugs
 * [Akshay Deo](https://github.com/deoakshay) - Interested in bug fixing
 
+* [Akshay Joshi](https://github.com/joshiakshay91) - Interested in bug fixing, if possible contributing to ading any feature.
 ### Communication
 
 For help we will go to [KDevelope List of IRC channels](https://userbase.kde.org/IRC_Channels/en).
