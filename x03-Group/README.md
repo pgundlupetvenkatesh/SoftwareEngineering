@@ -13,6 +13,7 @@ Together, as a group, you will fork this repo and collaborate to summarize some 
 * [Akshay Deo](https://github.com/deoakshay) - Interested in bug fixing
 
 * [Akshay Joshi](https://github.com/joshiakshay91) - Interested in bug fixing, if possible contributing to adding any feature.
+*[Priyanka Bandaru](https://github.com/priyankabandaru) - Interested in resolving bugs and also contribution in adding functionalities.
 ### Communication
 
 For help we will go to [KDevelope List of IRC channels](https://userbase.kde.org/IRC_Channels/en).
