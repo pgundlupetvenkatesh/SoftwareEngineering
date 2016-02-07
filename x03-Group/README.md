@@ -8,13 +8,13 @@ Together, as a group, you will fork this repo and collaborate to summarize some 
 
 **Student contributors**:
 
+* [Akshay Deo](https://github.com/deoakshay) - Interested in bug fixing
+* [Akshay Joshi](https://github.com/joshiakshay91) - Interested in bug fixing, if possible contributing to adding any feature.
+* [Pratik Gundlupet Venkatesh](https://github.com/gpundlupetvenkatesh) - Interested in logging, resolving and Verifying bugs and implementing new or enhancing existing features. 
+* [Priyanka Bandaru](https://github.com/priyankabandaru) - Interested in resolving bugs and also contribution in adding functionalities.
 * [Rahul Shinde](https://github.com/rahulvshinde) - Interested in fixing the long list of bugs
 * [Sumeet Tulsani](https://github.com/stulsani) - Interested in resolving the long list of bugs
-* [Akshay Deo](https://github.com/deoakshay) - Interested in bug fixing
 
-* [Akshay Joshi](https://github.com/joshiakshay91) - Interested in bug fixing, if possible contributing to adding any feature.
-
-*[Priyanka Bandaru](https://github.com/priyankabandaru) - Interested in resolving bugs and also contribution in adding functionalities.
 ### Communication
 
 For help we will go to [KDevelope List of IRC channels](https://userbase.kde.org/IRC_Channels/en).
